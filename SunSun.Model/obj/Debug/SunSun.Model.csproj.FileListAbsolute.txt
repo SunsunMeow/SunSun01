@@ -1,0 +1,12 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\SunSun.Model.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\SunSun.Model.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\obj\Debug\SunSun.Model.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\obj\Debug\SunSun.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\obj\Debug\SunSun.Model.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\obj\Debug\SunSun.Model.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\SunSun.Model.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Model\obj\Debug\SunSun.Model.csproj.CopyComplete

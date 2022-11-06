@@ -1,0 +1,27 @@
+﻿
+@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "nav-item dropdown" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <img class="rounded-circle me-lg-2" src="~/Areas/Admin Asset/img/Admin.jpg" alt="" style="width: 40px; height: 40px;">
+            <span class="d-none d-lg-inline-flex">
+                @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            </span>
+        </a>
+        <div class="dropdown-menu dropdown-menu-end bg-secondary border-0 rounded-0 rounded-bottom m-0">
+            <a href="#" class="dropdown-item">My Profile</a>
+            <a href="#" class="dropdown-item">Settings</a>
+            <a href="javascript:document.getElementById('logoutForm').submit()" class="dropdown-item">Log Out</a>
+        </div>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Log in", "Signin", "AccAdmin", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

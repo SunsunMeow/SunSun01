@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- recipe section -->
+
+<section class="recipe_section layout_padding-top">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>
+                Our Best Popular Recipes
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4 mx-auto">
+                <div class="box">
+                    <div class="img-box">
+                        <img src="images/r1.jpg" class="box-img" alt="">
+                        <img src="~/Assets/images/r1.jpg"  class="box-img" />
+                    </div>
+                    <div class="detail-box">
+                        <h4>
+                            Breakfast
+                        </h4>
+                        <a href="">
+                            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mx-auto">
+                <div class="box">
+                    <div class="img-box">                     
+                        <img src="~/Assets/images/r2.jpg" class="box-img"/>
+                    </div>
+                    <div class="detail-box">
+                        <h4>
+                            Lunch
+                        </h4>
+                        <a href="">
+                            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mx-auto">
+                <div class="box">
+                    <div class="img-box">                       
+                        <img src="~/Assets/images/r3.jpg" class="box-img" />
+                    </div>
+                    <div class="detail-box">
+                        <h4>
+                            Dinner
+                        </h4>
+                        <a href="">
+                            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="btn-box">
+            <a href="">
+                Order Now
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- end recipe section -->
+<!-- app section -->
+
+<section class="app_section">
+    <div class="container">
+        <div class="col-md-9 mx-auto">
+            <div class="row">
+                <div class="col-md-7 col-lg-8">
+                    <div class="detail-box">
+                        <h2>
+                            <span> Get the</span> <br>
+                            Delfood App
+                        </h2>
+                        <p>
+                            long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The poin
+                        </p>
+                        <div class="app_btn_box">
+                            <a href="" class="mr-1">
+                                <img src="~/Assets/images/google_play.png" class="box-img"/>
+                            </a>
+                            <a href="">
+                                <img src="~/Assets/images/app_store.png" class="box-img"/>
+                            </a>
+                        </div>
+                        <a href="" class="download_btn">
+                            Download Now
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-5 col-lg-4">
+                    <div class="img-box">
+                        <img src="~/Assets/images/mobile.png"  class="box-img"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<!-- end app section -->
+@Html.Partial("AboutPartial")
+@Html.Partial("BlogPartial")
+@Html.Partial("TestimonialPartial")
+
