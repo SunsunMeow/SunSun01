@@ -361,7 +361,6 @@
     <Content Include="Areas\Admin\Views\HomeAdmin\Menu.cshtml" />
     <Content Include="Areas\Admin\Views\Product\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Product\Add.cshtml" />
-    <Content Include="Areas\Admin\Views\Product\Detail.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

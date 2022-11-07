@@ -34,10 +34,6 @@ namespace SunSun.Web.Areas.Admin.Controllers
         {
             return View();
         }
-        public ActionResult Detail()
-        {
-            return View();
-        }
         
     }
 }
