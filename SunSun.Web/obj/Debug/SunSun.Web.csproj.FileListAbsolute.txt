@@ -114,3 +114,5 @@ C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\obj\Debug\SunSun
 C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\bin\SunSun.Model.dll.config
 C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\obj\Debug\SunSun.Web.Migrations.IdentityDb.resources
 C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\obj\Debug\SunSun.Web.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\bin\AutoMapper.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Web\bin\AutoMapper.xml
