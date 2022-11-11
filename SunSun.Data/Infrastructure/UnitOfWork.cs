@@ -4,8 +4,8 @@ namespace SunSun.Data.Infrastructure
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly IDbFactory dbFactory;
-        private SunSunShopDBContext dbContext;
+        public readonly IDbFactory dbFactory;
+        public SunSunShopDBContext dbContext;
 
         public UnitOfWork(IDbFactory dbFactory)
         {

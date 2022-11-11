@@ -12,28 +12,18 @@ namespace SunSun.Web.Areas.Admin.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly IProductRepository _productRepository;
-        public IDbFactory _dbFactory;
-        public IUnitOfWork _unitOfWork;
-        private readonly IMapper _mapper;
-
-        public ProductController(IProductRepository productRepository, IDbFactory dbFactory, IUnitOfWork unitOfWork, IMapper mapper)
-        {
-            _productRepository = productRepository;
-            _dbFactory = dbFactory;
-            _unitOfWork = unitOfWork;
-            _mapper = mapper;
-        }
-        [HttpGet]
+        public ProductRepository productRepository;
         public ActionResult  Index()
         {
-            var products = _productRepository.GetAll();
-            return View(products.ToList());
+            var  list = (List<Product>)productRepository.GetAll();
+            return View(list);
         }
-        public ActionResult Add()
+        public ActionResult Add(Product product)
         {
-            return View();
+            
+            return View(pro);
         }
         
     }
+
 }

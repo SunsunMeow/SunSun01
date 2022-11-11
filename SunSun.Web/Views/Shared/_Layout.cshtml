@@ -36,7 +36,14 @@
     <link href="~/Assets/css/responsive.css" rel="stylesheet" />
 
 </head>
-
+@{ 
+    var isShow = 0;
+    var url = Request.Url.AbsoluteUri;
+    if (!url.Contains("Index"))
+    {
+        isShow = 1;
+    }
+}
 <body>
 
     <div class="hero_area">
@@ -80,7 +87,9 @@
             </div>
         </header>
         <!-- end header section -->
-
+        <div style="@(isShow==0?"display:block":"display:none")">
+            @Html.Partial("SliderPartial")
+        </div>
     </div>
     @RenderBody()
 
