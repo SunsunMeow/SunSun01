@@ -438,6 +438,10 @@
       <Project>{ef5686f6-a77b-482f-8ce1-e80610e4aa03}</Project>
       <Name>SunSun.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SunSun.Service\SunSun.Service.csproj">
+      <Project>{3a25f3b7-95a2-4732-9ac6-0475fdcf0898}</Project>
+      <Name>SunSun.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202211041627442_IdentityDb.resx">

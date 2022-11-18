@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.UnitTest\\SunSun.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj",
+        "projectName": "SunSun.Data",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj",
+        "projectName": "SunSun.Model",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj",
+        "projectName": "SunSun.Service",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.UnitTest\\SunSun.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.UnitTest\\SunSun.UnitTest.csproj",
+        "projectName": "SunSun.UnitTest",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.UnitTest\\SunSun.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Web\\SunSun.Web.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Web\\SunSun.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Web\\SunSun.Web.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Web\\SunSun.Web.csproj",
+        "projectName": "SunSun.Web",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Web\\SunSun.Web.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Data\\SunSun.Data.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Model\\SunSun.Model.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\Dự Án\\SunSun01\\SunSun.Service\\SunSun.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@ namespace SunSun.Data.Infrastructure
 {
     public class DbFactory : Disposable, IDbFactory
     {
-        public SunSunShopDBContext dbContext;
+        private SunSunShopDBContext dbContext;
 
         public SunSunShopDBContext Init()
         {

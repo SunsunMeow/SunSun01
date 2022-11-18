@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Service.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Service.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Data.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Model.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Data.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Data.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Model.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\SunSun.Model.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\obj\Debug\SunSun.Service.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\obj\Debug\SunSun.Service.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\obj\Debug\SunSun.Service.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\obj\Debug\SunSun.Service.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Dự Án\SunSun01\SunSun.Service\obj\Debug\SunSun.Service.pdb

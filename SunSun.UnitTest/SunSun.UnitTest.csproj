@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Moq" Version="4.18.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SunSun.Data\SunSun.Data.csproj" />
+    <ProjectReference Include="..\SunSun.Model\SunSun.Model.csproj" />
+    <ProjectReference Include="..\SunSun.Service\SunSun.Service.csproj" />
+    <ProjectReference Include="..\SunSun.Web\SunSun.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ServiceTest\" />
+  </ItemGroup>
+
+</Project>

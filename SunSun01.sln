@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunSun.Model", "SunSun.Mode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunSun.Data", "SunSun.Data\SunSun.Data.csproj", "{062AB200-0D7D-4726-9600-A0A09A9270A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunSun.UnitTest", "SunSun.UnitTest\SunSun.UnitTest.csproj", "{D4698A5E-D6E6-4346-9322-FCFDC9C38E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunSun.Service", "SunSun.Service\SunSun.Service.csproj", "{3A25F3B7-95A2-4732-9AC6-0475FDCF0898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{062AB200-0D7D-4726-9600-A0A09A9270A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{062AB200-0D7D-4726-9600-A0A09A9270A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{062AB200-0D7D-4726-9600-A0A09A9270A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4698A5E-D6E6-4346-9322-FCFDC9C38E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4698A5E-D6E6-4346-9322-FCFDC9C38E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4698A5E-D6E6-4346-9322-FCFDC9C38E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4698A5E-D6E6-4346-9322-FCFDC9C38E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A25F3B7-95A2-4732-9AC6-0475FDCF0898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A25F3B7-95A2-4732-9AC6-0475FDCF0898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A25F3B7-95A2-4732-9AC6-0475FDCF0898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A25F3B7-95A2-4732-9AC6-0475FDCF0898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
